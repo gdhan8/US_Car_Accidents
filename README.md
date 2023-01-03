@@ -1,6 +1,6 @@
 # US_Car_Accidents
 
-### Dataset Linked here: https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents/download?datasetVersionNumber=12
+Dataset Linked here: https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents/download?datasetVersionNumber=12
 
 ## Motivation
 
