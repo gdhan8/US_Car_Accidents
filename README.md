@@ -2,6 +2,10 @@
 
 Dataset Linked here: https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents/download?datasetVersionNumber=12
 
+View an interactive webmap here: https://htmlpreview.github.io/
+
+View the rendered notebook here: 
+
 ## Motivation
 
 Car accidents are a major public health concern, causing significant numbers of deaths and injuries every year. According to the Centers for Disease Control and Prevention (CDC), motor vehicle accidents are the leading cause of death for people aged 1-54 in the United States. In 2019, over 36,000 people died in car accidents in the US, and millions more were injured. These accidents not only have devastating personal and emotional impacts, but they also have significant economic costs. The National Highway Traffic Safety Administration estimates that the economic cost of motor vehicle crashes in the US was over $800 billion in 2020, including costs such as medical expenses, lost productivity, and property damage. Reducing the number of car accidents, deaths, and injuries is therefore a crucial goal, with the potential to save lives and reduce economic burden.
