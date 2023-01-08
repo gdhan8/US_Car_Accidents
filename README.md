@@ -1,10 +1,10 @@
 # US_Car_Accidents
 
-Dataset Linked here: https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents/download?datasetVersionNumber=12
+Dataset Linked [here](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents/download?datasetVersionNumber=12)
 
 View an interactive visualization [here](https://htmlpreview.github.io/https://github.com/gdhan8/US_Car_Accidents/blob/main/us_accidents_nova_150_169.html)
 
-View the rendered notebook here: 
+View the rendered notebook [here](https://nbviewer.org/github/gdhan8/US_Car_Accidents/blob/main/car_accidents.ipynb)
 
 ## Motivation
 
