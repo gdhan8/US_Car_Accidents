@@ -1,6 +1,6 @@
 # US_Car_Accidents
 
-View the **[interactive visualization](https://raw.githack.com/gdhan8/US_Car_Accidents/main/us_accidents_nova.html)**
+View the **[Interactive Visualization](https://raw.githack.com/gdhan8/US_Car_Accidents/main/us_accidents_nova.html)**
 
 View the **[Rendered Jupyter Notebook](https://nbviewer.org/github/gdhan8/US_Car_Accidents/blob/main/car_accidents.ipynb)**
 
