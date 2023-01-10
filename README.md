@@ -17,3 +17,10 @@ Geo-spatial analytics and data science techniques can play a vital role in ident
 Data science techniques, such as machine learning and predictive modeling, can also be used to identify factors that contribute to the likelihood of an accident occurring at a particular location. For example, data on weather conditions, road conditions, traffic volumes, and other factors can be used to build models that predict the likelihood of an accident occurring at a particular location. This information can be used to inform the development of interventions aimed at reducing the number of accidents in high-risk areas.
 
 By identifying where reoccurring accidents are occurring and understanding the factors that contribute to these accidents, geo-spatial analytics and data science techniques can help policymakers and other stakeholders develop targeted interventions to reduce the number of car accidents, deaths, and injuries. These interventions may include measures such as improved road design, traffic calming measures, or educational campaigns to promote safe driving practices.
+
+## Working
+- Refine Interactive Map with additional features and details
+- Top Focus locations deepdive with tile imagery or imagery api integration
+- OpenStreetMap associations and integration
+- Rasterio integration to build machine learning prediction architecture (3D arrays/rasters)
+
