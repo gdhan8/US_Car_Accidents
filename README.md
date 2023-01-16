@@ -21,6 +21,11 @@ By identifying where reoccurring accidents are occurring and understanding the f
 ## Working
 - Refine Interactive Map with additional features and details
 - Top Focus locations deepdive with tile imagery or imagery api integration
-- OpenStreetMap associations and integration
-- Rasterio integration to build machine learning prediction architecture (3D arrays/rasters)
+- OpenStreetMap associations and integration, tags image within focus bounds, ...https://www.openstreetmap.org/copyright
+- Image extraction of focus bounds, imagery api or tile server
+- Rasterio integration, raster quantifies known accident risk or accident density
+- May need to consider OSM interpolated rasters, in lieu of tags
+- Tensor Flow Keras / CNN for model of location to labeled or tagged images with osm features
+- End: image of an area with osm tags quantifies accident risk of an area independent of historic accident data
+
 
